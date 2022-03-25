@@ -1,153 +1,237 @@
 {
   "main": {
-    "name": "Tim Baker",
-    "occupation": "(Your Occupation Here)",
-    "description": "Here will be your description. Use this to describe what you do or whatever you feel best describes yourself to a potential employer",
+    "name": "Alec McGlone",
+    "occupation": "Full Stack Web Developer",
+    "description": "Currently contributing to open source projects trying to help make the community a better place. I enojoy building mini projects from scratch and larger apps for clients",
     "image": "profilepic.jpg",
-    "bio": "Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
-    "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
-    "email": "youremailhere@gmail.com",
-    "phone": "555-555-5555",
+    "bio": "I am a science fiction enjoyer, with a love for running, an interest in a technological singularity, and a devotion to learn the many intricacies of coding. Born in a small town in Southwestern CT, I made my move for the love of beaches and ability to leave the cold behind. I like to build things, preferably without breaking them, until they can be in their best form. Outside of projects I picked up the textbooks K.N. King's \"C Programming | A Modern Approach\" and \"Computer Systems: A Programmers Perspective\" in the hopes of one day building a new operating system. In my freetime I enjoy reading, playing minecraft, and listening to Lex Fridman's Various conversations about the future of our species.",
+    "contactmessage": "Have a project for me? Think I'd be a good fit for your team? I'd love to hear from you, give me a shout by email, linkedIn or github if you'd like to get in contact with me.",
+    "email": "alecmcglone@gmail.com",
+    "phone": "203-856-7364",
     "address": {
-      "street": "(Your Street)",
-      "city": "(Your City)",
-      "state": "(Your State)",
-      "zip": "(Your Zip/Postal Code)"
+      "street": "1111 Crandon Blvd",
+      "city": "Key Biscayne",
+      "state": "Florida",
+      "zip": "33149"
     },
     "website": "http://www.timbakerdev.com",
-    "resumedownload": "http://timbakerdev.com",
+    "resumedownload": "https://drive.google.com/file/d/15We_ohKAK-Jj_8HdVpcyECgjNK5OJEkF/view?usp=sharing",
     "social": [
       {
         "name": "facebook",
-        "url": "http://facebook.com/tim.baker.906",
+        "url": "https://www.facebook.com/alec.mcglone",
         "className": "fa fa-facebook"
       },
       {
-        "name": "twitter",
-        "url": "http://twitter.com",
-        "className": "fa fa-twitter"
-      },
-      {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/tim-baker-8420009a/",
+        "url": "https://www.linkedin.com/in/alec-mcglone-900904206/",
         "className": "fa fa-linkedin"
       },
       {
-        "name": "instagram",
-        "url": "http://instagram.com/tbaker_x",
-        "className": "fa fa-instagram"
-      },
-      {
         "name": "github",
-        "url": "http://github.com/tbakerx",
+        "url": "https://github.com/Alec74",
         "className": "fa fa-github"
       }
     ]
   },
   "resume": {
-    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage": "Some of the skills I have learned so far and look forward to adding more",
     "education": [
       {
-        "school": "University?",
-        "degree": "Masters in Beer tasting",
-        "graduated": "April 2007",
-        "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
-      },
-      {
-        "school": "School #1 Maybe College?",
-        "degree": "What did you study 101",
-        "graduated": "March 2003",
-        "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school": "University of Connecticut",
+        "degree": "Full Stack Web Development Bootcamp (Certificate)",
+        "graduated": "September 2021",
+        "description": "I thrived in an accelerated 6 month curriculum which covered everything from HTML, CSS, and Javascript to MySQL, MongoDb, Express.js, ReactJs, and NodeJs. I put my skills to the test and built a variety of user driven applications. I also learned the importance of not creating merge conflicts and how to fix them should they arise."
       }
     ],
     "work": [
       {
-        "company": "Awesome Design Studio",
-        "title": "Senior UX God ",
-        "years": "March 2010 - Present",
-        "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
-      },
-      {
-        "company": "Super Cool Studio",
-        "title": "Junior bug fixer",
-        "years": "March 2007 - February 2010",
-        "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company": "BanishedMC",
+        "title": "Full Stack Developer",
+        "years": "March 2022",
+        "description": "My client needed a webapp to display messages from a discord \"| news\" channel and a staff login route to send messages back to the channel for select staff members. I learned how to create a bot with discord.js, fetch old channel messages, send new messages, and fetch a list of all members in the server to handle @mentions all while integrated with a mysql database."
       }
     ],
     "skills": [
       {
         "name": "Git",
-        "level": "60%"
+        "level": "100%"
       },
       {
-        "name": "Illustrator",
-        "level": "55%"
+        "name": "Heroku",
+        "level": "100%"
+      },
+      {
+        "name": "NodeJs",
+        "level": "100%"
+      },
+      {
+        "name": "ExpressJs",
+        "level": "100%"
       },
       {
         "name": "ReactJs",
-        "level": "50%"
+        "level": "100%"
+      },
+      {
+        "name": "DiscordJs",
+        "level": "100%"
       },
       {
         "name": "CSS",
-        "level": "90%"
+        "level": "100%"
       },
+      
       {
         "name": "HTML5",
-        "level": "80%"
-      },
-      {
-        "name": "VueJs",
-        "level": "50%"
+        "level": "100%"
       },
       {
         "name": "MongoDB",
-        "level": "80%"
+        "level": "100%"
       }
     ]
   },
   "portfolio": {
     "projects": [
       {
-        "title": "Canadian Wanderlust",
-        "category": "My Travel Blog for my post-university travels",
-        "image": "canadian-wanderlust.jpg",
-        "url": "https://www.canadianwanderlust.com"
+        "title": "BanishedMC - Official Website",
+        "category": "A community news page linked with a discord.js bot integrated with mysql",
+        "image": "BanishedMC_Website.png",
+        "url": "https://shielded-tor-66744.herokuapp.com/announcements#",
+        "github":"https://github.com/Alec74/BanishedMC/tree/fullStack"
       },
       {
-        "title": "Fury Fighting Gear",
-        "category": "(offline now) A fighting gear company I started",
-        "image": "fury-fighting-gear.jpg",
-        "url": "http://www.timbakerdev.com"
+        "title": "Score Tracker",
+        "category": "HTML, CSS, and Javascript one page to calculate and save scores",
+        "image": "scoreTracker.gif",
+        "url": "https://alec74.github.io/gameScore/#",
+        "github":"https://github.com/Alec74/gameScore"
       },
       {
-        "title": "Original Thai Food",
-        "category": "Website I built for a restaurant I like in Thailand",
-        "image": "original-thai-food.jpg",
-        "url": "http://www.timbakerdev.com/originalthaifood.github.io"
+        "title": "MVC Project Generator",
+        "category": "A user-profile focused workout tracking app made with MVC paradigm",
+        "image": "MVCGen.gif",
+        "url": "https://github.com/Alec74/MVC_Project_Template",
+        "github":"https://github.com/Alec74/MVC_Project_Template"
       },
       {
-        "title": "Resume Website",
-        "category": "A React based resume website template",
-        "image": "resume-website.jpg",
-        "url": "http://www.timbakerdev.com"
+        "title": "21st Century Fitness",
+        "category": "A user-profile focused workout tracking app made with MVC paradigm",
+        "image": "century.png",
+        "url": "https://centuryfitness.herokuapp.com/",
+        "github":"https://github.com/Alec74/21stCenturyFitness"
       },
       {
-        "title": "Smirkspace",
-        "category": "(MVP Only) A React and Meteor based chat University project.",
-        "image": "smirkspace.jpg",
-        "url": "http://www.smirkspace.com"
+        "title": "The Tom Fund",
+        "category": "An upcoming non-profit organization's community web app",
+        "image": "theTomFund.png",
+        "url": "https://thetomfund.com/",
+        "github":"https://github.com/Alec74/tommysFund"
+      },
+      {
+        "title": "Cocktail and Recipe Generator",
+        "category": "A one page app to search meal and drink recipes by ingredient",
+        "image": "project1.png",
+        "url": "https://adamspiegel.github.io/Group-Project-1/",
+        "github":"https://github.com/AdamSpiegel/Group-Project-1"
+      },
+      {
+        "title": "Google Books Search",
+        "category": "(MVP) A MERN Stack app to search for books and save them to a profile",
+        "image": "bookSrch.png",
+        "url": "https://serene-inlet-26362.herokuapp.com/",
+        "github":"https://github.com/Alec74/BookSearchEngine"
+      },
+      {
+        "title": "Budget Tracker",
+        "category": "(MVP) A PWA app to persistently track spending history",
+        "image": "budgetTracker.png",
+        "url": "https://vast-ocean-80593.herokuapp.com/",
+        "github":"https://github.com/Alec74/BudgetTracker"
+      },
+      {
+        "title": "Note Taker",
+        "category": "(MVP) A simple server integrated with a db and frontend code",
+        "image": "noteTaker.png",
+        "url": "https://take-your-note.herokuapp.com/",
+        "github":"https://github.com/Alec74/NoteTaker"
+      },
+      {
+        "title": "Weather Search",
+        "category": "(MVP) A single page app to search weather by city using the OpenWeather API",
+        "image": "weather.png",
+        "url": "https://alec74.github.io/weatherDashboard/",
+        "github":"https://github.com/Alec74/weatherDashboard"
+      },
+      {
+        "title": "Work Day Scheduler",
+        "category": "(MVP) A day planner saved in local storage that changes color based on current time",
+        "image": "scheduler.png",
+        "url": "https://alec74.github.io/workdayPlanner/",
+        "github":"https://github.com/Alec74/workdayPlanner"
+      },
+      {
+        "title": "Javascript Quiz",
+        "category": "(MVP) A timed Javascript quiz",
+        "image": "jsQuiz.png",
+        "url": "https://alec74.github.io/codeQuiz/",
+        "github":"https://github.com/Alec74/codeQuiz"
+      },
+      {
+        "title": "Tech Blog",
+        "category": "(MVP) An MVC project to create a blog platform",
+        "image": "techBlog.png",
+        "url": "https://tranquil-sierra-39705.herokuapp.com/",
+        "github":"https://github.com/Alec74/TechBlog"
+      },
+      {
+        "title": "Fitness App",
+        "category": "(MVP) Fitness tracking app linked with a database and server",
+        "image": "fitnessApp.png",
+        "url": "https://fitnessforyou.herokuapp.com/",
+        "github":"https://github.com/Alec74/fitnessApp"
+      },
+      {
+        "title": "Dynamic Readme",
+        "category": "A node.js application to generate a readme from a template",
+        "image": "dynamicReadme.gif",
+        "url": "https://github.com/Alec74/dynamicREADME",
+        "github":"https://github.com/Alec74/dynamicREADME"
+      },
+      {
+        "title": "Team Profile Generator",
+        "category": "A node.js app to make an html layout for a team",
+        "image": "teamProfileGen.gif",
+        "url": "https://github.com/Alec74/TeamProfileGenerator",
+        "github":"https://github.com/Alec74/TeamProfileGenerator"
+      },
+      {
+        "title": "ECommerce Backend",
+        "category": "A node.js app initializing a database for an ecommerce platform",
+        "image": "ecommerce.gif",
+        "url": "https://github.com/Alec74/ECommerceBackend",
+        "github":"https://github.com/Alec74/ECommerceBackend"
       }
     ]
   },
   "testimonials": {
     "testimonials": [
       {
-        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
-        "user": "Kareem Abdul Jabbar"
+        "text": "To succeed, planning along is insufficient. One must improvise as well.",
+        "user": "Isaac Asimov (Foundation)"
       },
       {
-        "text": "That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
-        "user": "Steve Wozniak... impersonator"
+        "text": "Optimism is fuel for innovation.",
+        "user": "Lex Fridman"
+      },
+      {
+        "text": "When something is important enough, you do it even if the odds are not in your favor.",
+        "user": "Elon Musk"
+      },
+      {
+        "text": "I'd Rather be partly great than entirely useless.",
+        "user": "Neil Shusterman (Unwind)"
       }
     ]
   }
