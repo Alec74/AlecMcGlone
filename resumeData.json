@@ -1,11 +1,11 @@
 {
   "main": {
     "name": "Alec McGlone",
-    "occupation": "Full Stack Web Developer",
-    "description": "Currently contributing to open source projects trying to help make the community a better place. I enojoy building mini projects from scratch and larger apps for clients",
+    "occupation": "entrepreneur",
+    "description": "I have a love of exploration and enjoying the outdoors. Nothing inspires me more than a sunrise. After studying the ins and outs of the software engineering industry I am ready to hire the developers necessary to launch my parent company to the stars. Cryptocurrency markets and decentralized financial applications are waiting for my development. Launching Quorum and the Quistic coin in the coming months from Vermont with the owning company being AdInfinitum",
     "image": "profilepic.jpg",
     "bio": "I am a science fiction enjoyer, with a love for running, an interest in a technological singularity, and a devotion to learn the many intricacies of coding. Born in a small town in Southwestern CT, I made my move for the love of beaches and ability to leave the cold behind. I like to build things, preferably without breaking them, until they can be in their best form. Outside of projects I picked up the textbooks K.N. King's \"C Programming | A Modern Approach\" and \"Computer Systems: A Programmers Perspective\" in the hopes of one day building a new operating system. In my freetime I enjoy reading, playing minecraft, and listening to Lex Fridman's Various conversations about the future of our species.",
-    "contactmessage": "Have a project for me? Think I'd be a good fit for your team? I'd love to hear from you, give me a shout by email, linkedIn or github if you'd like to get in contact with me.",
+    "contactmessage": "Holy cow do I have a project for you! Think you have what it takes to join my startup company? I'd love to hear from you, give me a shout by email, linkedIn, github, phone number, or discord if you'd like to get in contact with me.",
     "email": "alecmcglone@gmail.com",
     "phone": "203-856-7364",
     "address": {
@@ -14,8 +14,8 @@
       "state": "Florida",
       "zip": "33149"
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload": "https://drive.google.com/file/d/15We_ohKAK-Jj_8HdVpcyECgjNK5OJEkF/view?usp=sharing",
+    "website": "https://alec74.github.io/AlecMcGlone/",
+    "resumedownload": "https://docs.google.com/document/d/1hCnoO0zGZo0cIWvBBVXeafN56cNyIp8FHtzrzoQoZOE/edit?usp=sharing",
     "social": [
       {
         "name": "facebook",
@@ -31,6 +31,16 @@
         "name": "github",
         "url": "https://github.com/Alec74",
         "className": "fa fa-github"
+      },
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/AlecMcGlone",
+        "className": "fa fa-twitter"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/alecmcglone/",
+        "className": "fa fa-instagram"
       }
     ]
   },
