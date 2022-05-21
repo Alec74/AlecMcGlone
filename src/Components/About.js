@@ -35,7 +35,8 @@ class About extends Component {
 						         {city} {state}, {zip}
                    </span><br />
 						   <span>{phone}</span><br />
-                     <span>{email}</span>
+                     <span>{email}</span><br/>
+                     <span><a>https://discord.gg/VQ3sC2j7hT</a></span>
 					   </p>
                </div>
                <div className="columns download">

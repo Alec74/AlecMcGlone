@@ -564,6 +564,9 @@
 .fa-facebook-square:before {
   content: "\f082";
 }
+.fa-discord-square:before {
+  content: "\f392"
+}
 .fa-camera-retro:before {
   content: "\f083";
 }
@@ -633,6 +636,9 @@
 }
 .fa-facebook:before {
   content: "\f09a";
+}
+.fa-discord:before {
+  content: "\f392";
 }
 .fa-github:before {
   content: "\f09b";
