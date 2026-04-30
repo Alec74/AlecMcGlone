@@ -1,4 +1,4 @@
-# Alec McGlone Portfolio Page ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+# Alec McGlone Portfolio Page
 
 # Link [Github Pages](https://alec74.github.io/AlecMcGlone/)
   ## Description
@@ -7,7 +7,6 @@ A React Application displaying my accomplishments
   
   ## Table of Contents
   * [Usage](#usage)
-  * [License](#license)
 
   ## Usage
 
@@ -20,8 +19,4 @@ This project was created using [react-resume-template](https://github.com/tbaker
   * Github Profile: [Alec74](https://github.com/Alec74)
   * alecmcglone@gmail.com
   
-  ## License
-  Notice: This application is licensed under the MIT License.
-  
-  [License-Link](./LICENSE)
     
